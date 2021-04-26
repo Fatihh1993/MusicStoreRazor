@@ -369,3 +369,4 @@ C:\Users\USER\source\repos\MusicStoreRazor\MusicStoreRazor.UI\bin\Debug\netcorea
 C:\Users\USER\source\repos\MusicStoreRazor\MusicStoreRazor.UI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
 C:\Users\USER\source\repos\MusicStoreRazor\MusicStoreRazor.UI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
 C:\Users\USER\source\repos\MusicStoreRazor\MusicStoreRazor.UI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\USER\source\repos\MusicStoreRazor\MusicStoreRazor.UI\obj\Debug\netcoreapp3.1\Razor\Pages\MusicList\Index.cshtml.g.cs
