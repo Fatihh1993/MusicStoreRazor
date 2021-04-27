@@ -32,6 +32,9 @@ namespace MusicStoreRazor.UI.Migrations
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
+                    b.Property<string>("BarcodeNumber")
+                    .HasColumnType("nvarchar(max)");
+
                     b.HasKey("Id");
 
                     b.ToTable("Musics");
